@@ -1,9 +1,9 @@
 # 忽略整个tools和config文件夹
-tools/
-config/
+/tools
+/config
 
 # 但保留特定的文件（如果需要）
 !README.md
 !package.json
 !index.js
-!src/
+!/src
