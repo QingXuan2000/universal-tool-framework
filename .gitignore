@@ -1,2 +1,7 @@
 tools/
 config/
+!.gitignore
+!README.md
+!package.json
+!index.js
+!src/
