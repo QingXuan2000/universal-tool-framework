@@ -2,7 +2,7 @@
 /tools
 /config
 
-# 但保留特定的文件（如果需要）
+# 但保留特定的文件
 !README.md
 !package.json
 !index.js
