@@ -1,0 +1,45 @@
+{
+  "name": "@qingxuan2000/utf",
+  "version": "2.1.1",
+  "description": "Universal Tool Framework 是一个基于 Node.js 的命令行工具框架，用于统一管理和执行各种系统命令和工具。提供交互式菜单系统，支持多级菜单导航和跨平台工具执行管理。",
+  "keywords": [
+    "tool-framework",
+    "system-tools",
+    "diagnostics",
+    "utilities",
+    "command-line",
+    "menu-system",
+    "cross-platform",
+    "tool-manager"
+  ],
+  "license": "MIT",
+  "author": "QingXuanJun",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {
+    "utf": "index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "src/**",
+    "lib/**",
+    "img/**",
+    "!config/**",
+    "!tools/**"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}

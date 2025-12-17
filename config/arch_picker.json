@@ -1,0 +1,28 @@
+{
+  "title": "\n架构选择 - 请选择要运行的软件架构\n",
+  "options": [
+    {
+      "id": 1,
+      "display": "| 1 |→ ARM64",
+      "value": "ARM64"
+    },
+    {
+      "id": 2,
+      "display": "| 2 |→ ARM32",
+      "value": "ARM32"
+    },
+    {
+      "id": 3,
+      "display": "| 3 |→ X86",
+      "value": "X86"
+    },
+    {
+      "id": 4,
+      "display": "| 4 |→ X86_64",
+      "value": "X86_64"
+    }
+  ],
+  "prompt": ">>> ",
+  "error_empty": "输入不能为空，请重新选择！",
+  "error_invalid": "无效选择，请重新输入！"
+}

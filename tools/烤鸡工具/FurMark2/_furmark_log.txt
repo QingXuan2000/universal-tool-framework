@@ -1,0 +1,162 @@
+(02:39:28:778)	FurMark 2.4.3.0 (build: Nov  6 2024@17:18:33)
+(02:39:28:778)	(c)2007-2024 Geeks3D
+(02:39:28:778)	homepage: https://www.geeks3d.com/furmark/
+(02:39:28:778)	discord server : https://geeks3d.com/discord/
+(02:39:28:778)	FurMark (GeeXLab engine) initialization...
+(02:39:28:778)	command line: furmark --demo furmark-gl --width 1920 --height 1080 --furmark-vram-test-gb 8 
+(02:39:28:778)	FurMark home directory: D:\图吧工具箱\tools\烤鸡工具\FurMark_win64\
+(02:39:28:778)	[stb] STB image loader. Supported formats: *.JPEG, *.PNG, *.TGA, *.BMP, *.PSD, *.GIF, *.HDR, *.PIC
+(02:39:28:778)	[tinyexr] EXR image loader.
+(02:39:28:778)	[lib3ds] Lib3ds loader (core plugin).
+(02:39:28:778)	[ObjLoaderV1] OBJ 3D loader (core plugin).
+(02:39:28:778)	[ObjLoaderV2] OBJ loader based on Tiny OBJ Loader (core plugin).
+(02:39:28:778)	[STL] STL (StereoLithography) 3D loader (core plugin).
+(02:39:28:778)	[glTF] glTF 3D loader (core plugin).
+(02:39:28:778)	[SQLite3] SQLite3 version 3.46.1
+(02:39:28:778)	GraphX Core 0.55.3.0 (codename: Newton) initialization ok.
+(02:39:28:778)	Windows version: Windows 11 build 26100
+(02:39:28:778)	HW platform type: PC
+(02:39:28:778)	SW platform type: Windows 64-bit
+(02:39:28:780)	[GpuMonitor] Operating system detected: Windows 11 build 26100
+(02:39:28:790)	[GpuMonitor] NV/R530+: physical GPU(s): 1 - logical GPU(s): 1
+(02:39:28:833)	[GpuMonitor] Num GPUs found: 2
+(02:39:28:833)	[GpuMonitor] GPU0 - NVIDIA GeForce GTX 1070 Ti
+(02:39:28:833)	[GpuMonitor] GPU0 - PCI codes: 0x10DE-0x1B82
+(02:39:28:833)	[GpuMonitor] GPU0 - Bus ID: 43
+(02:39:28:833)	[GpuMonitor] GPU0 - BIOS: 86.04.85.00.c0
+(02:39:28:833)	[GpuMonitor] GPU0 - core temperature: 46 degC
+(02:39:28:833)	[GpuMonitor] GPU0 - driver: 572.83
+(02:39:28:833)	[GpuMonitor] GPU1 - GameViewer Virtual Display Adapter
+(02:39:28:833)	[GpuMonitor] GPU1 - PCI codes: 0x1002E-0xDEC2
+(02:39:28:833)	[GpuMonitor] GPU1 - Bus ID: 1002
+(02:39:28:833)	[GpuMonitor] GPU1 - driver: 17.13.25.697 (5-16-2024)
+(02:39:28:833)	FurMark (GeeXLab engine) started ok.
+(02:39:28:833)	system DPI: 96
+(02:39:28:846)	3D window size: 1936 x 1119
+(02:39:28:883)	current DPI: xdpi(96), ydpi(96) - DPI scale: 1.0
+(02:39:29:053)	GL_RENDERER: NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2
+(02:39:29:053)	GL_VENDOR: NVIDIA Corporation
+(02:39:29:053)	GL_VERSION: 4.6.0 NVIDIA 572.83
+(02:39:29:054)	GL_SHADING_LANGUAGE_VERSION: 4.60 NVIDIA
+(02:39:29:054)	OpenGL version detected: 4.6
+(02:39:29:054)	OpenGL extensions: 424
+(02:39:29:113)	[ArtifactScanner] Artifact scanner for GPU stability checking.
+(02:39:29:201)	uploading data in GPU mem: 0 % (VRAM load: 16.0 MB)
+(02:39:29:556)	uploading data in GPU mem: 1 % (VRAM load: 80.0 MB)
+(02:39:30:060)	uploading data in GPU mem: 2 % (VRAM load: 160.0 MB)
+(02:39:30:408)	uploading data in GPU mem: 3 % (VRAM load: 240.0 MB)
+(02:39:30:752)	uploading data in GPU mem: 4 % (VRAM load: 320.0 MB)
+(02:39:31:040)	uploading data in GPU mem: 5 % (VRAM load: 384.0 MB)
+(02:39:31:347)	uploading data in GPU mem: 6 % (VRAM load: 464.0 MB)
+(02:39:31:618)	uploading data in GPU mem: 7 % (VRAM load: 544.0 MB)
+(02:39:31:886)	uploading data in GPU mem: 8 % (VRAM load: 624.0 MB)
+(02:39:32:178)	uploading data in GPU mem: 9 % (VRAM load: 704.0 MB)
+(02:39:32:501)	uploading data in GPU mem: 10 % (VRAM load: 768.0 MB)
+(02:39:32:771)	uploading data in GPU mem: 11 % (VRAM load: 848.0 MB)
+(02:39:33:072)	uploading data in GPU mem: 12 % (VRAM load: 928.0 MB)
+(02:39:33:391)	uploading data in GPU mem: 13 % (VRAM load: 1008.0 MB)
+(02:39:33:681)	uploading data in GPU mem: 14 % (VRAM load: 1088.0 MB)
+(02:39:33:902)	uploading data in GPU mem: 15 % (VRAM load: 1152.0 MB)
+(02:39:34:207)	uploading data in GPU mem: 16 % (VRAM load: 1232.0 MB)
+(02:39:34:501)	uploading data in GPU mem: 17 % (VRAM load: 1312.0 MB)
+(02:39:34:818)	uploading data in GPU mem: 18 % (VRAM load: 1392.0 MB)
+(02:39:35:094)	uploading data in GPU mem: 19 % (VRAM load: 1472.0 MB)
+(02:39:35:284)	uploading data in GPU mem: 20 % (VRAM load: 1536.0 MB)
+(02:39:35:529)	uploading data in GPU mem: 21 % (VRAM load: 1616.0 MB)
+(02:39:35:758)	uploading data in GPU mem: 22 % (VRAM load: 1696.0 MB)
+(02:39:35:990)	uploading data in GPU mem: 23 % (VRAM load: 1776.0 MB)
+(02:39:36:225)	uploading data in GPU mem: 24 % (VRAM load: 1856.0 MB)
+(02:39:36:419)	uploading data in GPU mem: 25 % (VRAM load: 1920.0 MB)
+(02:39:36:670)	uploading data in GPU mem: 26 % (VRAM load: 2000.0 MB)
+(02:39:36:892)	uploading data in GPU mem: 27 % (VRAM load: 2080.0 MB)
+(02:39:37:117)	uploading data in GPU mem: 28 % (VRAM load: 2160.0 MB)
+(02:39:37:319)	uploading data in GPU mem: 29 % (VRAM load: 2240.0 MB)
+(02:39:37:475)	uploading data in GPU mem: 30 % (VRAM load: 2304.0 MB)
+(02:39:37:718)	uploading data in GPU mem: 31 % (VRAM load: 2384.0 MB)
+(02:39:37:927)	uploading data in GPU mem: 32 % (VRAM load: 2464.0 MB)
+(02:39:38:122)	uploading data in GPU mem: 33 % (VRAM load: 2544.0 MB)
+(02:39:38:310)	uploading data in GPU mem: 34 % (VRAM load: 2624.0 MB)
+(02:39:38:457)	uploading data in GPU mem: 35 % (VRAM load: 2688.0 MB)
+(02:39:38:646)	uploading data in GPU mem: 36 % (VRAM load: 2768.0 MB)
+(02:39:38:858)	uploading data in GPU mem: 37 % (VRAM load: 2848.0 MB)
+(02:39:39:097)	uploading data in GPU mem: 38 % (VRAM load: 2928.0 MB)
+(02:39:39:293)	uploading data in GPU mem: 39 % (VRAM load: 3008.0 MB)
+(02:39:39:431)	uploading data in GPU mem: 40 % (VRAM load: 3072.0 MB)
+(02:39:39:598)	uploading data in GPU mem: 41 % (VRAM load: 3152.0 MB)
+(02:39:39:762)	uploading data in GPU mem: 42 % (VRAM load: 3232.0 MB)
+(02:39:39:925)	uploading data in GPU mem: 43 % (VRAM load: 3312.0 MB)
+(02:39:40:098)	uploading data in GPU mem: 44 % (VRAM load: 3392.0 MB)
+(02:39:40:240)	uploading data in GPU mem: 45 % (VRAM load: 3456.0 MB)
+(02:39:40:436)	uploading data in GPU mem: 46 % (VRAM load: 3536.0 MB)
+(02:39:40:602)	uploading data in GPU mem: 47 % (VRAM load: 3616.0 MB)
+(02:39:40:759)	uploading data in GPU mem: 48 % (VRAM load: 3696.0 MB)
+(02:39:40:908)	uploading data in GPU mem: 49 % (VRAM load: 3776.0 MB)
+(02:39:41:031)	uploading data in GPU mem: 50 % (VRAM load: 3840.0 MB)
+(02:39:41:190)	uploading data in GPU mem: 51 % (VRAM load: 3920.0 MB)
+(02:39:41:334)	uploading data in GPU mem: 52 % (VRAM load: 4000.0 MB)
+(02:39:41:491)	uploading data in GPU mem: 53 % (VRAM load: 4080.0 MB)
+(02:39:41:640)	uploading data in GPU mem: 54 % (VRAM load: 4160.0 MB)
+(02:39:41:758)	uploading data in GPU mem: 55 % (VRAM load: 4224.0 MB)
+(02:39:41:892)	uploading data in GPU mem: 56 % (VRAM load: 4304.0 MB)
+(02:39:42:028)	uploading data in GPU mem: 57 % (VRAM load: 4384.0 MB)
+(02:39:42:157)	uploading data in GPU mem: 58 % (VRAM load: 4464.0 MB)
+(02:39:42:304)	uploading data in GPU mem: 59 % (VRAM load: 4544.0 MB)
+(02:39:42:407)	uploading data in GPU mem: 60 % (VRAM load: 4608.0 MB)
+(02:39:42:536)	uploading data in GPU mem: 61 % (VRAM load: 4688.0 MB)
+(02:39:42:665)	uploading data in GPU mem: 62 % (VRAM load: 4768.0 MB)
+(02:39:42:793)	uploading data in GPU mem: 63 % (VRAM load: 4848.0 MB)
+(02:39:42:921)	uploading data in GPU mem: 64 % (VRAM load: 4928.0 MB)
+(02:39:43:028)	uploading data in GPU mem: 65 % (VRAM load: 4992.0 MB)
+(02:39:43:148)	uploading data in GPU mem: 66 % (VRAM load: 5072.0 MB)
+(02:39:43:260)	uploading data in GPU mem: 67 % (VRAM load: 5152.0 MB)
+(02:39:43:382)	uploading data in GPU mem: 68 % (VRAM load: 5232.0 MB)
+(02:39:43:492)	uploading data in GPU mem: 69 % (VRAM load: 5312.0 MB)
+(02:39:43:579)	uploading data in GPU mem: 70 % (VRAM load: 5376.0 MB)
+(02:39:43:683)	uploading data in GPU mem: 71 % (VRAM load: 5456.0 MB)
+(02:39:43:792)	uploading data in GPU mem: 72 % (VRAM load: 5536.0 MB)
+(02:39:43:890)	uploading data in GPU mem: 73 % (VRAM load: 5616.0 MB)
+(02:39:43:990)	uploading data in GPU mem: 74 % (VRAM load: 5696.0 MB)
+(02:39:44:077)	uploading data in GPU mem: 75 % (VRAM load: 5760.0 MB)
+(02:39:44:187)	uploading data in GPU mem: 76 % (VRAM load: 5840.0 MB)
+(02:39:44:283)	uploading data in GPU mem: 77 % (VRAM load: 5920.0 MB)
+(02:39:44:375)	uploading data in GPU mem: 78 % (VRAM load: 6000.0 MB)
+(02:39:44:473)	uploading data in GPU mem: 79 % (VRAM load: 6080.0 MB)
+(02:39:44:540)	uploading data in GPU mem: 80 % (VRAM load: 6144.0 MB)
+(02:39:44:625)	uploading data in GPU mem: 81 % (VRAM load: 6224.0 MB)
+(02:39:44:708)	uploading data in GPU mem: 82 % (VRAM load: 6304.0 MB)
+(02:39:44:790)	uploading data in GPU mem: 83 % (VRAM load: 6384.0 MB)
+(02:39:44:865)	uploading data in GPU mem: 84 % (VRAM load: 6464.0 MB)
+(02:39:44:925)	uploading data in GPU mem: 85 % (VRAM load: 6528.0 MB)
+(02:39:44:999)	uploading data in GPU mem: 86 % (VRAM load: 6608.0 MB)
+(02:39:45:070)	uploading data in GPU mem: 87 % (VRAM load: 6688.0 MB)
+(02:39:45:138)	uploading data in GPU mem: 88 % (VRAM load: 6768.0 MB)
+(02:39:45:200)	uploading data in GPU mem: 89 % (VRAM load: 6848.0 MB)
+(02:39:45:249)	uploading data in GPU mem: 90 % (VRAM load: 6912.0 MB)
+(02:39:45:314)	uploading data in GPU mem: 91 % (VRAM load: 6992.0 MB)
+(02:39:45:372)	uploading data in GPU mem: 92 % (VRAM load: 7072.0 MB)
+(02:39:45:429)	uploading data in GPU mem: 93 % (VRAM load: 7152.0 MB)
+(02:39:45:486)	uploading data in GPU mem: 94 % (VRAM load: 7232.0 MB)
+(02:39:45:529)	uploading data in GPU mem: 95 % (VRAM load: 7296.0 MB)
+(02:39:45:578)	uploading data in GPU mem: 96 % (VRAM load: 7376.0 MB)
+(02:39:45:623)	uploading data in GPU mem: 97 % (VRAM load: 7456.0 MB)
+(02:39:45:665)	uploading data in GPU mem: 98 % (VRAM load: 7536.0 MB)
+(02:39:45:701)	uploading data in GPU mem: 99 % (VRAM load: 7616.0 MB)
+(02:39:45:730)	uploading data in GPU mem: 100 % (VRAM load: 7680.0 MB)
+(02:39:45:731)	furmark::gl::bkg1::gl32
+(12:35:44:558)	[ Demo Quick Stats ]
+(12:35:44:558)	- demo                 : FurMark (GL) (built-in: YES)
+(12:35:44:562)	- renderer             : NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2
+(12:35:44:562)	- 3D API               : OpenGL 4.6.0 NVIDIA 572.83
+(12:35:44:562)	- resolution           : 1920x1061
+(12:35:44:562)	- frames               : 597134
+(12:35:44:562)	- duration             : 35752320 ms
+(12:35:44:562)	- FPS (min/avg/max)    : 2 / 17 / 18
+(12:35:44:562)	- GPU 0: NVIDIA GeForce GTX 1070 Ti [10DE-1B82]
+(12:35:44:562)	  .max temperature: 66癈
+(12:35:44:562)	  .max usage: 100%
+(12:35:44:562)	  .max core clock: 1912 MHz
+(12:35:44:562)	  .min core clock: 1874 MHz
+(12:35:44:562)	- GPU 1: GameViewer Virtual Display Adapter [1002E-DEC2]
+(12:35:45:194)	FurMark (GeeXLab engine) is shutting down...
+(12:35:45:200)	GraphX Core stopped ok.
+(12:35:45:200)	FurMark (GeeXLab engine) shutdown ok.

@@ -1,0 +1,124 @@
+01:21:16:443(0000001)	[info ]	GeeXLab Player v0.60.3.0 (Oct 14 2024@11:20:24)
+01:21:16:443(0000002)	[info ]	Scriptable Proto-Engine (Lua, Python, GLSL, OpenGL, Vulkan)
+01:21:16:443(0000003)	[info ]	(C)2009-2024 Geeks3D
+01:21:16:443(0000004)	[info ]	Homepage: https://geeks3d.com/geexlab/
+01:21:16:443(0000005)	[info ]	Discord server: https://www.geeks3d.com/discord/
+01:21:16:443(0000006)	[info ]	GeeXLab Player is starting up...
+01:21:16:443(0000007)	[info ]	[stb] STB image loader. Supported formats: *.JPEG, *.PNG, *.TGA, *.BMP, *.PSD, *.GIF, *.HDR, *.PIC
+01:21:16:443(0000008)	[info ]	[tinyexr] EXR image loader.
+01:21:16:444(0000009)	[info ]	[lib3ds] Lib3ds loader (core plugin).
+01:21:16:444(0000010)	[info ]	[ObjLoaderV1] OBJ 3D loader (core plugin).
+01:21:16:444(0000011)	[info ]	[ObjLoaderV2] OBJ loader based on Tiny OBJ Loader (core plugin).
+01:21:16:444(0000012)	[info ]	[STL] STL (StereoLithography) 3D loader (core plugin).
+01:21:16:444(0000013)	[info ]	[glTF] glTF 3D loader (core plugin).
+01:21:16:444(0000014)	[info ]	[SQLite3] SQLite3 version 3.46.1
+01:21:16:444(0000015)	[info ]	GraphX Core 0.55.3.0 (codename: Newton) initialization ok.
+01:21:16:444(0000016)	[info ]	GeeXLab home directory: C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\
+01:21:16:444(0000017)	[info ]	Windows version: Windows 11 build 26100
+01:21:16:444(0000018)	[info ]	SW platform type: Windows 64-bit
+01:21:16:683(0000019)	[info ]	Plugins search path: C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/physx5/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/physx4/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/physx3/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/ffmpeg/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/assimp/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/imagemagick/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/fmod/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/python/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/flex/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/freeimage/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/openvr/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/leap/;C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\plugins/anttweakbar/;
+01:21:16:684(0000020)	[info ]	Current user: QingXuanJun
+01:21:16:684(0000021)	[info ]	Python 3.7 home: [C:/Users/QingXuanJun/AppData/Local/Programs/Python/Python37/]
+01:21:16:684(0000022)	[info ]	Python 3.8 home: [C:/Users/QingXuanJun/AppData/Local/Programs/Python/Python38/]
+01:21:16:684(0000023)	[info ]	Python 3.9 home: [C:/Users/QingXuanJun/AppData/Local/Programs/Python/Python39/]
+01:21:16:684(0000024)	[info ]	Python 3.10 home: [C:/Users/QingXuanJun/AppData/Local/Programs/Python/Python310/]
+01:21:16:684(0000025)	[info ]	Python 3.11 home: [C:/Users/QingXuanJun/AppData/Local/Programs/Python/Python311/]
+01:21:16:684(0000026)	[info ]	Python 3.12 home: [C:/Users/QingXuanJun/AppData/Local/Programs/Python/Python312/]
+01:21:16:684(0000027)	[info ]	App directory: C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\
+01:21:16:684(0000028)	[info ]	Scripting libs directory: C:\Users\QingXuanJun\Documents\Python Code\QX-Utils\tools\烤鸡工具\FurMark2\libs\
+01:21:16:686(0000029)	[info ]	[GpuMonitor] Operating system detected: Windows 11 build 26100
+01:21:16:691(0000030)	[info ]	[GpuMonitor] NV/R530+: physical GPU(s): 1 - logical GPU(s): 1
+01:21:16:746(0000031)	[info ]	[GpuMonitor] Num GPUs found: 2
+01:21:16:746(0000032)	[info ]	[GpuMonitor] GPU0 - NVIDIA GeForce GTX 1070 Ti
+01:21:16:746(0000033)	[info ]	[GpuMonitor] GPU0 - PCI codes: 0x10DE-0x1B82
+01:21:16:746(0000034)	[info ]	[GpuMonitor] GPU0 - Bus ID: 43
+01:21:16:746(0000035)	[info ]	[GpuMonitor] GPU0 - BIOS: 86.04.85.00.c0
+01:21:16:746(0000036)	[info ]	[GpuMonitor] GPU0 - core temperature: 41 degC
+01:21:16:746(0000037)	[info ]	[GpuMonitor] GPU0 - driver: 572.83
+01:21:16:746(0000038)	[info ]	[GpuMonitor] GPU1 - GameViewer Virtual Display Adapter
+01:21:16:746(0000039)	[info ]	[GpuMonitor] GPU1 - PCI codes: 0x1002E-0xDEC2
+01:21:16:746(0000040)	[info ]	[GpuMonitor] GPU1 - Bus ID: 1002
+01:21:16:746(0000041)	[info ]	[GpuMonitor] GPU1 - driver: 17.13.25.697 (5-16-2024)
+01:21:16:750(0000042)	[info ]	================================================================================
+01:21:16:806(0000043)	[info ]	Geeks3D FurMark - demo started with an OpenGL 4.6 context.
+01:21:16:806(0000044)	[info ]	Quick OpenGL information (use /glinfo for more limits):
+01:21:16:806(0000045)	[info ]	GL_RENDERER: NVIDIA GeForce GTX 1070 Ti/PCIe/SSE2
+01:21:16:806(0000046)	[info ]	GL_VENDOR: NVIDIA Corporation
+01:21:16:806(0000047)	[info ]	GL_VERSION: 4.6.0 NVIDIA 572.83
+01:21:16:806(0000048)	[info ]	GL_SHADING_LANGUAGE_VERSION: 4.60 NVIDIA
+01:21:16:806(0000049)	[info ]	OpenGL version detected: 4.6
+01:21:16:806(0000050)	[info ]	OpenGL extensions: 424
+01:21:16:806(0000051)	[info ]	OpenGL hardware limits:
+01:21:16:806(0000052)	[info ]	  GL_MAX_VERTEX_ATTRIBS: 16
+01:21:16:806(0000053)	[info ]	  GL_MAX_VERTEX_UNIFORM_COMPONENTS: 4096
+01:21:16:806(0000054)	[info ]	  GL_MAX_FRAGMENT_UNIFORM_COMPONENTS: 4096
+01:21:16:806(0000055)	[info ]	  GL_MAX_TEXTURE_SIZE: 32768
+01:21:16:806(0000056)	[info ]	  GL_MAX_VIEWPORT_DIMS: 32768 32768
+01:21:16:806(0000057)	[info ]	  GL_MAX_TEXTURE_IMAGE_UNITS: 32
+01:21:16:806(0000058)	[info ]	  GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 192
+01:21:16:806(0000059)	[info ]	Render window (Geeks3D FurMark) initialized (renderer type: OpenGL)
+01:21:16:871(0000060)	[info ]	[Lua] Lua version: Lua 5.4.7
+01:21:16:871(0000061)	[info ]	[Lua] LuaFileSystem initialized ok.
+01:21:16:871(0000062)	[info ]	[Lua] UTF8 initialized ok.
+01:21:16:873(0000063)	[info ]	[Lua] LuaSocket core initialized ok.
+01:21:16:873(0000064)	[info ]	[Lua] Mime core initialized ok.
+01:21:16:874(0000065)	[info ]	[Lua] LuaSQL SQLite3 driver initialized ok.
+01:21:16:874(0000066)	[info ]	[Lua] LuaGL initialized ok.
+01:21:16:874(0000067)	[info ]	[Lua] initialization ok.
+01:21:16:878(0000068)	[info ]	Scene compilation: SUCCESS.
+01:21:16:879(0000069)	[info ]	screen size detected: 1920 x 1080
+01:21:16:880(0000070)	[info ]	FurMark 2.4.3.0 is starting up...
+01:21:16:880(0000071)	[info ]	Checking for new version...
+01:21:17:712(0000072)	[info ]	A new version is available: 2.7.0.0
+01:21:17:791(0000073)	[info ]	[Vulkan2] Vulkan renderer plugin (Windows, Linux)
+01:21:17:824(0000074)	[info ]	[Vulkan2] instance version: 4198400 (Vulkan 1.1)
+01:21:17:835(0000075)	[info ]	[Vulkan2] # Vulkan devices: 1
+01:21:17:835(0000076)	[info ]	[Vulkan2] [ GPU 0 ]--------------------------------------
+01:21:17:835(0000077)	[info ]	[Vulkan2] - physical device pointer: 0x39D8BC70
+01:21:17:835(0000078)	[info ]	[Vulkan2] - GPU name: NVIDIA GeForce GTX 1070 Ti
+01:21:17:835(0000079)	[info ]	[Vulkan2] - DeviceID: 10DE-1B82
+01:21:17:835(0000080)	[info ]	[Vulkan2] - Raw driver version: 2400501760
+01:21:17:835(0000081)	[info ]	[Vulkan2] - NVIDIA driver version: 572.83_0.0
+01:21:17:835(0000082)	[info ]	[Vulkan2] - Vulkan API version: 1.4.303
+01:21:17:835(0000083)	[info ]	[Vulkan2] - Device type: VK_PHYSICAL_DEVICE_TYPE_DISCRETE_GPU
+01:21:17:835(0000084)	[info ]	[Vulkan2] --- initializing GPU 0...
+01:21:17:835(0000085)	[info ]	[Vulkan2] VK_EXT_full_screen_exclusive is exposed.
+01:21:17:835(0000086)	[info ]	[Vulkan2] VK_KHR_get_surface_capabilities2 is not exposed (this extension is required by VK_EXT_full_screen_exclusive)
+01:21:17:988(0000087)	[info ]	[Vulkan2] - VK_KHR_ray_tracing_pipeline:
+01:21:17:988(0000088)	[info ]	[Vulkan2]   - shaderGroupHandleSize               : 32
+01:21:17:988(0000089)	[info ]	[Vulkan2]   - maxRayRecursionDepth                : 31
+01:21:17:988(0000090)	[info ]	[Vulkan2]   - maxShaderGroupStride                : 4096
+01:21:17:988(0000091)	[info ]	[Vulkan2]   - shaderGroupBaseAlignment            : 64
+01:21:17:988(0000092)	[info ]	[Vulkan2]   - shaderGroupHandleCaptureReplaySize  : 32
+01:21:17:988(0000093)	[info ]	[Vulkan2]   - maxRayDispatchInvocationCount       : 1073741824
+01:21:17:988(0000094)	[info ]	[Vulkan2]   - shaderGroupHandleAlignment          : 32
+01:21:17:988(0000095)	[info ]	[Vulkan2]   - maxRayHitAttributeSize              : 32
+01:21:17:988(0000096)	[info ]	[Vulkan2] - VK_KHR_acceleration_structure:
+01:21:17:988(0000097)	[info ]	[Vulkan2]   - maxGeometryCount                                            : 16777215
+01:21:17:988(0000098)	[info ]	[Vulkan2]   - maxInstanceCount                                            : 16777215
+01:21:17:988(0000099)	[info ]	[Vulkan2]   - maxPrimitiveCount                                           : 536870911
+01:21:17:988(0000100)	[info ]	[Vulkan2]   - maxPerStageDescriptorAccelerationStructures                 : 1048576
+01:21:17:988(0000101)	[info ]	[Vulkan2]   - maxPerStageDescriptorUpdateAfterBindAccelerationStructures  : 1048576
+01:21:17:988(0000102)	[info ]	[Vulkan2]   - maxDescriptorSetAccelerationStructures                      : 1048576
+01:21:17:988(0000103)	[info ]	[Vulkan2]   - maxDescriptorSetUpdateAfterBindAccelerationStructures       : 1048576
+01:21:17:988(0000104)	[info ]	[Vulkan2]   - minAccelerationStructureScratchOffsetAlignment              : 128
+01:21:17:988(0000105)	[info ]	[Vulkan2] - VK_EXT_pci_bus_info:
+01:21:17:988(0000106)	[info ]	[Vulkan2]   - pciDomain     : 0
+01:21:17:988(0000107)	[info ]	[Vulkan2]   - pciBus        : 43
+01:21:17:988(0000108)	[info ]	[Vulkan2]   - pciDevice     : 0
+01:21:17:988(0000109)	[info ]	[Vulkan2]   - pciFunction   : 0
+01:21:17:988(0000110)	[info ]	[Vulkan2] - VK_KHR_driver_properties:
+01:21:17:988(0000111)	[info ]	[Vulkan2]   - driver name                 : NVIDIA
+01:21:17:988(0000112)	[info ]	[Vulkan2]   - driver ID                   : VK_DRIVER_ID_NVIDIA_PROPRIETARY_KHR (4)
+01:21:17:988(0000113)	[info ]	[Vulkan2]   - driver conformance version  : 1.4.0.1:
+01:21:17:988(0000114)	[info ]	[Vulkan2]   - driver info                 : 572.83
+01:21:17:988(0000115)	[info ]	[Vulkan2] --- GPU 0 initialized ok
+01:21:18:028(0000116)	[info ]	- GPU 0: NVIDIA GeForce GTX 1070 Ti
+01:21:18:028(0000117)	[info ]	- GPU 1: GameViewer Virtual Display Adapter
+01:21:18:028(0000118)	[info ]	scripts INIT execution: OK.
+01:21:18:766(0000119)	[info ]	Scene statistics:
+01:21:18:766(0000120)	[info ]	- 38 frames rendered during 0.738 seconds
+01:21:18:766(0000121)	[info ]	- average framerate: 51.5 FPS
+01:21:18:874(0000122)	[info ]	Stopping GeeXLab Player...
+01:21:19:186(0000123)	[info ]	GraphX Core stopped ok.
+01:21:19:186(0000124)	[info ]	Exit from GeeXLab Player.

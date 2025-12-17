@@ -1,0 +1,5 @@
+# NPM 忽略文件
+# 排除 tools 文件夹
+tools/
+# 排除 config 文件夹
+config/

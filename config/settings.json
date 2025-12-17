@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "Universal Tool Framework",
+    "version": "2.0.0"
+  },
+  "settings": {
+    "display_clear": true,
+    "arch_picker": true,
+    "arrow_indicator": "",
+    "input_method": "arrow_input"
+  },
+  "logo": {
+    "display_logo": true,
+    "logo_path": "./logo"
+  }
+}

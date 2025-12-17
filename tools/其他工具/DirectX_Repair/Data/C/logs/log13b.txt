@@ -1,0 +1,58 @@
+[8764:8770][2025-03-13T23:30:52]i001: Burn v3.7.3424.0, Windows v10.0 (Build 26100: Service Pack 0), path: D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\cp13\cp13b.exe, cmdline: '/quiet /repair /norestart /log "D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b.txt" -burn.unelevated BurnPipe.{C63442C2-EB9B-4CCE-8591-97D0CEA2CC74} {F2B86047-D96D-46AF-8588-B44ECFC58979} 17128'
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleLog' to value 'D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b.txt'
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleOriginalSource' to value 'D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\cp13\cp13b.exe'
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleOriginalSourceFolder' to value 'D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\cp13\'
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleName' to value 'Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664'
+[8764:8770][2025-03-13T23:30:52]i100: Detect begin, 2 packages
+[8764:8770][2025-03-13T23:30:52]i103: Detected related package: {13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}, scope: PerMachine, version: 12.0.21005.0, language: 0 operation: MajorUpgrade
+[8764:8770][2025-03-13T23:30:52]i103: Detected related package: {F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}, scope: PerMachine, version: 12.0.21005.0, language: 0 operation: MajorUpgrade
+[8764:8770][2025-03-13T23:30:52]i101: Detected package: vcRuntimeMinimum_x86, state: Absent, cached: None
+[8764:8770][2025-03-13T23:30:52]i101: Detected package: vcRuntimeAdditional_x86, state: Absent, cached: None
+[8764:8770][2025-03-13T23:30:52]i052: Condition 'VersionNT >= v6.0 OR (VersionNT = v5.1 AND ServicePackLevel >= 2) OR (VersionNT = v5.2 AND ServicePackLevel >= 1)' evaluates to true.
+[8764:8770][2025-03-13T23:30:52]i199: Detect complete, result: 0x0
+[8764:8770][2025-03-13T23:30:52]i200: Plan begin, 2 packages, action: Install
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleRollbackLog_vcRuntimeMinimum_x86' to value 'D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_000_vcRuntimeMinimum_x86_rollback.txt'
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleLog_vcRuntimeMinimum_x86' to value 'D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_000_vcRuntimeMinimum_x86.txt'
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleRollbackLog_vcRuntimeAdditional_x86' to value 'D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_001_vcRuntimeAdditional_x86_rollback.txt'
+[8764:8770][2025-03-13T23:30:52]i000: Setting string variable 'WixBundleLog_vcRuntimeAdditional_x86' to value 'D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_001_vcRuntimeAdditional_x86.txt'
+[8764:8770][2025-03-13T23:30:52]i201: Planned package: vcRuntimeMinimum_x86, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[8764:8770][2025-03-13T23:30:52]i201: Planned package: vcRuntimeAdditional_x86, state: Absent, default requested: Present, ba requested: Present, execute: Install, rollback: Uninstall, cache: Yes, uncache: No, dependency: Register
+[8764:8770][2025-03-13T23:30:52]i299: Plan complete, result: 0x0
+[8764:8770][2025-03-13T23:30:52]i300: Apply begin
+[42E8:845C][2025-03-13T23:30:52]i360: Creating a system restore point.
+[42E8:845C][2025-03-13T23:31:09]i361: Created a system restore point.
+[42E8:845C][2025-03-13T23:31:09]i370: Session begin, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{21f70a0b-e7bf-43cf-96d8-c6145bc5c269}, options: 0x7, disable resume: No
+[42E8:845C][2025-03-13T23:31:09]i000: Caching bundle from: 'C:\Users\QINGXU~1\AppData\Local\Temp\{21f70a0b-e7bf-43cf-96d8-c6145bc5c269}\.be\vcredist_x86.exe' to: 'C:\ProgramData\Package Cache\{21f70a0b-e7bf-43cf-96d8-c6145bc5c269}\vcredist_x86.exe'
+[42E8:845C][2025-03-13T23:31:09]i320: Registering bundle dependency provider: {21f70a0b-e7bf-43cf-96d8-c6145bc5c269}, version: 12.0.40664.0
+[42E8:845C][2025-03-13T23:31:09]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{21f70a0b-e7bf-43cf-96d8-c6145bc5c269}, resume: Active, restart initiated: No, disable resume: No
+[42E8:2280][2025-03-13T23:31:10]i305: Verified acquired payload: vcRuntimeMinimum_x86 at path: C:\ProgramData\Package Cache\.unverified\vcRuntimeMinimum_x86, moving to: C:\ProgramData\Package Cache\{8122DAB1-ED4D-3676-BB0A-CA368196543E}v12.0.40664\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi.
+[42E8:2280][2025-03-13T23:31:10]i305: Verified acquired payload: cab54A5CABBE7274D8A22EB58060AAB7623 at path: C:\ProgramData\Package Cache\.unverified\cab54A5CABBE7274D8A22EB58060AAB7623, moving to: C:\ProgramData\Package Cache\{8122DAB1-ED4D-3676-BB0A-CA368196543E}v12.0.40664\packages\vcRuntimeMinimum_x86\cab1.cab.
+[42E8:2280][2025-03-13T23:31:10]i305: Verified acquired payload: vcRuntimeAdditional_x86 at path: C:\ProgramData\Package Cache\.unverified\vcRuntimeAdditional_x86, moving to: C:\ProgramData\Package Cache\{D401961D-3A20-3AC7-943B-6139D5BD490A}v12.0.40664\packages\vcRuntimeAdditional_x86\vc_runtimeAdditional_x86.msi.
+[42E8:2280][2025-03-13T23:31:10]i305: Verified acquired payload: cabB3E1576D1FEFBB979E13B1A5379E0B16 at path: C:\ProgramData\Package Cache\.unverified\cabB3E1576D1FEFBB979E13B1A5379E0B16, moving to: C:\ProgramData\Package Cache\{D401961D-3A20-3AC7-943B-6139D5BD490A}v12.0.40664\packages\vcRuntimeAdditional_x86\cab1.cab.
+[42E8:845C][2025-03-13T23:31:10]i301: Applying execute package: vcRuntimeMinimum_x86, action: Install, path: C:\ProgramData\Package Cache\{8122DAB1-ED4D-3676-BB0A-CA368196543E}v12.0.40664\packages\vcRuntimeMinimum_x86\vc_runtimeMinimum_x86.msi, arguments: ' MSIFASTINSTALL="7" NOVSUI="1"'
+[8764:8770][2025-03-13T23:31:14]i319: Applied execute package: vcRuntimeMinimum_x86, result: 0x0, restart: None
+[42E8:845C][2025-03-13T23:31:14]i325: Registering dependency: {21f70a0b-e7bf-43cf-96d8-c6145bc5c269} on package provider: Microsoft.VS.VC_RuntimeMinimumVSU_x86,v12, package: vcRuntimeMinimum_x86
+[42E8:845C][2025-03-13T23:31:14]i301: Applying execute package: vcRuntimeAdditional_x86, action: Install, path: C:\ProgramData\Package Cache\{D401961D-3A20-3AC7-943B-6139D5BD490A}v12.0.40664\packages\vcRuntimeAdditional_x86\vc_runtimeAdditional_x86.msi, arguments: ' MSIFASTINSTALL="7" NOVSUI="1"'
+[8764:8770][2025-03-13T23:31:20]i319: Applied execute package: vcRuntimeAdditional_x86, result: 0x0, restart: None
+[42E8:845C][2025-03-13T23:31:20]i325: Registering dependency: {21f70a0b-e7bf-43cf-96d8-c6145bc5c269} on package provider: Microsoft.VS.VC_RuntimeAdditionalVSU_x86,v12, package: vcRuntimeAdditional_x86
+[42E8:845C][2025-03-13T23:31:20]i372: Session end, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{21f70a0b-e7bf-43cf-96d8-c6145bc5c269}, resume: ARP, restart: None, disable resume: No
+[42E8:845C][2025-03-13T23:31:20]i371: Updating session, registration key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{21f70a0b-e7bf-43cf-96d8-c6145bc5c269}, resume: ARP, restart initiated: No, disable resume: No
+[8764:8770][2025-03-13T23:31:20]i399: Apply complete, result: 0x0, restart: None, ba requested restart:  No
+[8764:8770][2025-03-13T23:31:20]i500: Shutting down, exit code: 0x0
+[8764:8770][2025-03-13T23:31:20]i410: Variable: VersionNT = 10.0.0.0
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleAction = 5
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleElevated = 1
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleInstalled = 0
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleLog = D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b.txt
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleLog_vcRuntimeAdditional_x86 = D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_001_vcRuntimeAdditional_x86.txt
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleLog_vcRuntimeMinimum_x86 = D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_000_vcRuntimeMinimum_x86.txt
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleManufacturer = Microsoft Corporation
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleName = Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleOriginalSource = D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\cp13\cp13b.exe
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleOriginalSourceFolder = D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\cp13\
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleProviderKey = {21f70a0b-e7bf-43cf-96d8-c6145bc5c269}
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleRollbackLog_vcRuntimeAdditional_x86 = D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_001_vcRuntimeAdditional_x86_rollback.txt
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleRollbackLog_vcRuntimeMinimum_x86 = D:\图吧工具箱\tools\其他工具\DirectX_Repair\Data\C\logs\log13b_000_vcRuntimeMinimum_x86_rollback.txt
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleTag = 
+[8764:8770][2025-03-13T23:31:20]i410: Variable: WixBundleVersion = 12.0.40664.0
+[8764:8770][2025-03-13T23:31:20]i007: Exit code: 0x0, restarting: No
