@@ -1,6 +1,8 @@
+# 忽略整个tools和config文件夹
 tools/
 config/
-!.gitignore
+
+# 但保留特定的文件（如果需要）
 !README.md
 !package.json
 !index.js
